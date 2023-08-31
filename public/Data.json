@@ -1,0 +1,34 @@
+{
+    "users":[
+        {
+            "id":"1",
+            "name":"thanu",
+            "email":"t@gmail.com"
+        },
+        {
+            "id":"2",
+            "name":"sanjee",
+            "email":"s@gmail.com"
+        },
+        {
+            "id":"3",
+            "name":"thenu",
+            "email":"the@gmail.com"
+        },
+        {
+            "id":"4",
+            "name":"arthi",
+            "email":"a@gmail.com"
+        },
+        {
+            "id":"5",
+            "name":"vasanthy",
+            "email":"v@gmail.com"
+        },
+        {
+            "id":"6",
+            "name":"vijay",
+            "email":"v@gmail.com"
+        }
+    ]
+}
